@@ -9,9 +9,9 @@
  - You can specify your own amount to spend by using the `-s`/`--spend` CLI arguement.
 
 ## How to run this program
- - Clone this repository, `git clone `
- - 
-`python3 transcations.py -s 5000` <br>
-`python3 transcations.py --spend 5000`
+ - Open your command prompt/terminal, clone this repository and run the program.
+ - `git clone https://github.com/damaniayash/fetch-backend-takehome.git`
+ - `cd fetch-backend-takehome`
+ - `python3 transcations.py -s 5000` / `python3 transcations.py --spend 5000`
 
 
