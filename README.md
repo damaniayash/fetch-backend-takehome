@@ -7,6 +7,7 @@
 ## Notes
 - A sample transactions.csv has been provided, to use your own data make sure the filename is `transaction.csv` and is in the same directory as `transactions.py`
  - You can specify your own amount to spend by using the `-s`/`--spend` CLI arguement.
+ - The program will display the output on console as well as create a json file with the name `payers.json` with the corresponding output.
 
 ## How to run this program
  - Open your command prompt/terminal, clone this repository and run the program.
