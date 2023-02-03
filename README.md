@@ -12,6 +12,6 @@
  - Open your command prompt/terminal, clone this repository and run the program.
  - `git clone https://github.com/damaniayash/fetch-backend-takehome.git`
  - `cd fetch-backend-takehome`
- - `python3 transcations.py -s 5000` / `python3 transcations.py --spend 5000`
+ - `python3 transactions.py -s 5000` / `python3 transactions.py --spend 5000`
 
 
